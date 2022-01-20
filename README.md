@@ -3,9 +3,8 @@ npm install a-life
 ```
 
 <img src="https://komarev.com/ghpvc/?username=mrpekr&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Rdimo" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Rdimo" alt="Profile Forks"></a>
-<a href="https://Cheataway.com" target="_blank"> <img src="https://discordapp.com/api/guilds/899560455993966633/widget.png?style=shield" alt="shield.png"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mrpekr" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/mrpekr" alt="Profile Forks"></a>
 
 📩・**Want to reach? Add Name#0000 discord or mail contact.name@gmail.com**
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpekr&show_icons=true&locale=en&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="mrpekr" /> </p>
