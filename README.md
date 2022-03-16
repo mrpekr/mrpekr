@@ -14,6 +14,10 @@ npm install a-life
   
 <h3 style="font-family:verdana" align="left">OS That i use:</h3>
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="45" height="45"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45"/>
+  
+<h3 style="font-family:verdana" align="left">IDE That i use:</h3>
+ 
+ <p align="left"> <img src="https://raw.githubusercontent.com/mrpekr/stuff/9ef2786d63bc043de219f1f6d265a92c7b7b1c11/vscode.svg?token=ALWT24GY66JN2A2ONL5HWI3CGIG3E" width="45" height="45"/>
 
   <img src="https://discord.c99.nl/widget/theme-1/310024406200090624.png" alt="discord status"><a/>  
   
