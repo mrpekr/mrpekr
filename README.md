@@ -17,4 +17,6 @@ npm install a-life
 
   <img src="https://discord.c99.nl/widget/theme-1/310024406200090624.png" alt="discord status"><a/>  
   
+  Note: Most of my inspiration comes from https://github.com/Rdimo I do not take credit for any of their works and i will make sure to credit them when i use their code. 
+  
   <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
