@@ -2,13 +2,18 @@
 npm install a-life
 ```
 
-<img src="https://komarev.com/ghpvc/?username=mrpekr&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mrpekr" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/mrpekr" alt="Profile Forks"></a>
+## Info
+## 📩 Contact
+![](https://img.shields.io/badge/-Agent%2047%235545-7289da?logo=Discord)
+![](https://img.shields.io/badge/-mrpekr.github.io%40gmail.com-c71610?logo=Gmail&)
 
-📩・**Want to reach? Add Agent 47#5545 discord or mail mrpekr.github.io@gmail.com**
-</a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpekr&theme=dark&show_icons=true&border_color=000000&locale=en&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="mrpekr" /> </p>
-🌐・**Website: [mrpekr.github.io](https://mrpekr.github.io)**
+## 🌐 Website
+<a href="https://mrpekr.github.io"><img src="https://img.shields.io/badge/-My%20Website-lightgrey?logo=GitHub"></a>
+
+## Stats
+<img src="https://komarev.com/ghpvc/?username=mrpekr&label=Profile%20Views&color=008042label=Visitors" alt="Visitors"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mrpekr" alt="Profile Stars"></a>
+<img src="https://img.shields.io/github/stars/mrpekr"></a>
 
 ## Skills
 ### 💻 OS
