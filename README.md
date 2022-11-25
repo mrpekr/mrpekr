@@ -52,8 +52,6 @@ npm install a-life
 - [JMiki](https://github.com/JM1k1)
 - [Rdimo](https://github.com/Rdimo)
 
-
-<img src="https://discord.c99.nl/widget/theme-1/310024406200090624.png" alt="discord status"><a/>  
-  
+<img src="https://discord.c99.nl/widget/theme-1/310024406200090624.png" alt="discord status"></a>  
   
   <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
