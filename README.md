@@ -4,7 +4,7 @@ npm install a-life
 
 ## Info
 ## 📩 Contact
-![](https://img.shields.io/badge/-Agent%2047%235545-7289da?logo=Discord)
+![](https://img.shields.io/badge/-Comrade%20Medic%235545-7289da?logo=Discord)
 ![](https://img.shields.io/badge/-mrpekr.github.io%40gmail.com-c71610?logo=Gmail&)
 
 ## 🌐 Website
